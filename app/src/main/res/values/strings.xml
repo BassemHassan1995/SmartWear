@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Smart Wear</string>
+    <string name="action_settings">Settings</string>
+    <string name="auth_failed">Wrong Email or Password</string>
+    <string name="title_activity_main_manu">MainManu</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="search">Search for a product</string>
+    <string name="title_activity_home">Watches Brands</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="cart">Cart</string>
+    <string name="my_orders">My Orders</string>
+    <string name="help">Help</string>
+    <string name="by_mail">By Mail</string>
+    <string name="by_phone">By Phone</string>
+
+    <string name="title_activity_watches">Watches Brands</string>
+    <string name="title_activity_details">Watch Details</string>
+    <string name="compatible_os">OS:</string>
+    <string name="battery">Battery:</string>
+    <string name="sensors">Sensors:</string>
+    <string name="chipset">Chipset:</string>
+    <string name="cpu">CPU:</string>
+    <string name="ram">RAM:</string>
+    <string name="storage">Storage:</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="signup_failed">Signup Failed</string>
+    <string name="client_id">9e3125306089578</string>
+    <string name="about_text">A smart watches store mobile application allow the user to choose from variety of smart watches , view descriptions and product details .it uses the technology of augmented reality to visualize the smart watches for customer and allow him to buy it online.</string>
+    <string name="about">About</string>
+    <string name="share_application">Share Application</string>
+    <string name="check_app">Hey check out our app at: --</string>
+    <string name="exit">Exit</string>
+    <string name="exit_confirmation">Are you sure you want to exit the application?</string>
+    <string name="watches">Watches</string>
+    <string name="press_again">Press again to exit</string>
+    <string name="account">Account</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_addToCart">Add to Cart</string>
+    <string name="title_activity_cart">Cart</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="price">Price:</string>
+    <string name="no_orders">No Orders Yet</string>
+    <string name="total">Total</string>
+</resources>

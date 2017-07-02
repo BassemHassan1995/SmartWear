@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_47adf1413212d89432ac07c7bd8dac14fab60e85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_51d89a119e3f8e38305b102bbcf2a94837634fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8bbea3aae34d3a445488a54b94165d7236f30871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basse\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.2\33ee82e324f4b1e40167f3dc5e01234a1c5cab61\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\jsoup-1.10.2_05686826cb21445ec0a285abccad5e2cab1ef18d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_b27f4f4eee5a0b15def69b1341413a86d42b7d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e5af6cbbcb24522c5f70695bee1c61a87bf11">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_dfe4433405314c643b239dfaf07a1f9ad428c946.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_7cb5a0f5fe1b65053142d83716f0b09e5072ee76\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_433bd53ebc8a20764c9eff95c618670db6906969.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c273dd9fa2eed345a0a3f11e2c0f0db7e8cf2c8">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_3925a66bea4c545a11b0b71214b06ff628aba62c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_2a8a4658c96579f929bb09689dfbca44563e14f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basse\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_33167870edcdf0c438f2f13f165224e389b406b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8f5c7101c0843e816e174e5c0d092b81513e890b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\basse\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_43585a710c763f3a702c7a3875d7be6145892cd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ec253a12f5abd903f7e3dd1797155b214f22325f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_d2ac0beced8edc2921c4c8f34d083c1081807d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_08328aa34d369937b8667588d2ef73b6eed9204c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_03e148624f5e0c2568a3dbd9e704b9663da83108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cf2870bf739e8ed3152506005b70c4318690b543\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_c10e7c2bc4c0cea5c6363d0e7ec0e73f87e4c04a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_246eb71914b0338213c3296863d56ecb729d0984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08a3607d9835083e4ba215d10be22a229a74635c">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3f5915a48e3761b2d976badb405465eb8814bbb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bc7f7067328d5816fc3b31efe7d5e7095739566">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_09e9fc7e029e902863f24847baa3b2aeb81cf0b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_fc0d6dcc5f4c45961e430de8ea02e8ab276daf1b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_30b9f46fe7d8bf8be9f83371c20f1185f2c28553\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_f16375a45a615760a7ea95d98339ea60af8a623f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_24e37c642c740dd7e8523e579892f14ce01a1b4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_daf6e8b3941e5ac02aa8c13c5f783be53603fa66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_433bd53ebc8a20764c9eff95c618670db6906969\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_e2a6761ca4f0038be6da474f1e10a3ae0f4828c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dca6db41779fb6c313278e5805a6ae6dc499e1f">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\unity-classes_c6185cd95532bec923d318500e54aa8fa48213a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_6a35917038db3e30700a9643dbc6860c94e72123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3aa3ca334cf062da7cde8d86ec28d3034fa8504f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_a680939d0c3ff78b6c3b858c5721212f561f6d85.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_99528a3780f6e8b8e9447d712e2e441f63b880f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_47adf1413212d89432ac07c7bd8dac14fab60e85.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8bbea3aae34d3a445488a54b94165d7236f30871\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_51d89a119e3f8e38305b102bbcf2a94837634fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_7cb5a0f5fe1b65053142d83716f0b09e5072ee76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c273dd9fa2eed345a0a3f11e2c0f0db7e8cf2c8">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\Vuforia_3925a66bea4c545a11b0b71214b06ff628aba62c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_2a8a4658c96579f929bb09689dfbca44563e14f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\basse\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.2\33ee82e324f4b1e40167f3dc5e01234a1c5cab61\jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.2_05686826cb21445ec0a285abccad5e2cab1ef18d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_b27f4f4eee5a0b15def69b1341413a86d42b7d77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\basse\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_33167870edcdf0c438f2f13f165224e389b406b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\libs\VuforiaUnityPlayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e5af6cbbcb24522c5f70695bee1c61a87bf11">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\2\VuforiaUnityPlayer_dfe4433405314c643b239dfaf07a1f9ad428c946\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8f5c7101c0843e816e174e5c0d092b81513e890b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ec253a12f5abd903f7e3dd1797155b214f22325f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basse\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_43585a710c763f3a702c7a3875d7be6145892cd4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_08328aa34d369937b8667588d2ef73b6eed9204c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_4dbefc6e36101b89d221a1b96258449e0352d03e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_3e692c8d7190571faedd8c34da8ebc09a511c592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_bbc2aebe950b384e9888f0183728ea069bb780fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_d2ac0beced8edc2921c4c8f34d083c1081807d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_cf2870bf739e8ed3152506005b70c4318690b543.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_bbc2aebe950b384e9888f0183728ea069bb780fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_03e148624f5e0c2568a3dbd9e704b9663da83108.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_3e692c8d7190571faedd8c34da8ebc09a511c592\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_4dbefc6e36101b89d221a1b96258449e0352d03e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_c10e7c2bc4c0cea5c6363d0e7ec0e73f87e4c04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_246eb71914b0338213c3296863d56ecb729d0984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_30b9f46fe7d8bf8be9f83371c20f1185f2c28553.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dca6db41779fb6c313278e5805a6ae6dc499e1f">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_c6185cd95532bec923d318500e54aa8fa48213a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_f16375a45a615760a7ea95d98339ea60af8a623f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3aa3ca334cf062da7cde8d86ec28d3034fa8504f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_fc0d6dcc5f4c45961e430de8ea02e8ab276daf1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_e2a6761ca4f0038be6da474f1e10a3ae0f4828c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_24e37c642c740dd7e8523e579892f14ce01a1b4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_a680939d0c3ff78b6c3b858c5721212f561f6d85\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_6a35917038db3e30700a9643dbc6860c94e72123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_daf6e8b3941e5ac02aa8c13c5f783be53603fa66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_99528a3780f6e8b8e9447d712e2e441f63b880f3.jar" />
+    </item>
+
+</items>

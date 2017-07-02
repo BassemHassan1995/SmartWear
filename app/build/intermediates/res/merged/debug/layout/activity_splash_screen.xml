@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="25dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:layout_margin="25dp"
+        android:src="@drawable/logo_3"
+        android:scaleType="fitCenter"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/splach_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="smARt weAR"
+        android:textSize="50dp"
+        android:gravity="top|center"/>
+</LinearLayout>

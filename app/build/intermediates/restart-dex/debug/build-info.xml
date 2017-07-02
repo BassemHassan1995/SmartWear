@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1133543728187054"
+    token="4676374707620266958"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="524" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="45" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="1133299234414531"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1133543728187054"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\FCI\Level 4\Graduation Project\Smart Wear\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

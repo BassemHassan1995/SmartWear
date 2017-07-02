@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_watches"
+            android:icon="@drawable/ic_watch_black_48dp"
+            android:title="@string/watches" />
+        <item
+            android:id="@+id/nav_my_orders"
+            android:icon="@drawable/ic_assignment_black_48dp"
+            android:title="@string/my_orders" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_account_box_black_48dp"
+            android:title="Account" />
+    </group>
+
+    <item android:title="Contact Us">
+        <menu>
+            <item
+                android:id="@+id/nav_contact_phone"
+                android:icon="@drawable/ic_contact_phone_black_48dp"
+                android:title="@string/by_phone" />
+            <item
+                android:id="@+id/nav_contact_mail"
+                android:icon="@drawable/ic_contact_mail_black_48dp"
+                android:title="@string/by_mail" />
+        </menu>
+    </item>
+<item android:title="Others">
+    <menu>
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info_black_48dp"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/ic_account_box_black_48dp"
+            android:title="Logout" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_exit_to_app_black_48dp"
+            android:title="@string/exit" />
+
+    </menu>
+
+</item>
+
+</menu>

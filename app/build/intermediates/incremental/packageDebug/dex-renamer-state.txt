@@ -1,0 +1,7 @@
+#Sun Jul 02 00:49:27 GMT+02:00 2017
+base.0=D\:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f5915a48e3761b2d976badb405465eb8814bbb1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09e9fc7e029e902863f24847baa3b2aeb81cf0b7\\classes.dex
+base.1=D\:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09e9fc7e029e902863f24847baa3b2aeb81cf0b7
+file.0=D\:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f5915a48e3761b2d976badb405465eb8814bbb1\\classes.dex

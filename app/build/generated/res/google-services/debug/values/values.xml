@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">818718249295-54b3rr9r818gmov2vdo8iig5d4v774kj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartwear-956ca.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">818718249295</string>
+    <string name="google_api_key" translatable="false">AIzaSyAt7S4jzhvWy646E309ngAx0gMvNRMS-0w</string>
+    <string name="google_app_id" translatable="false">1:818718249295:android:995192c793ad85cd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAt7S4jzhvWy646E309ngAx0gMvNRMS-0w</string>
+    <string name="google_storage_bucket" translatable="false">smartwear-956ca.appspot.com</string>
+</resources>

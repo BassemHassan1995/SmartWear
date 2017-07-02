@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cart.xml",
+        "source": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\src\\main\\res\\menu\\menu_cart.xml"
+    },
+    {
+        "merged": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_account.xml",
+        "source": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\src\\main\\res\\menu\\menu_account.xml"
+    },
+    {
+        "merged": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_details.xml",
+        "source": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\src\\main\\res\\menu\\menu_details.xml"
+    },
+    {
+        "merged": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_orders.xml",
+        "source": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\src\\main\\res\\menu\\menu_orders.xml"
+    },
+    {
+        "merged": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_order.xml",
+        "source": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\src\\main\\res\\menu\\menu_order.xml"
+    },
+    {
+        "merged": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_brands.xml",
+        "source": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\src\\main\\res\\menu\\menu_brands.xml"
+    },
+    {
+        "merged": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_about.xml",
+        "source": "D:\\FCI\\Level 4\\Graduation Project\\Smart Wear\\app\\src\\main\\res\\menu\\menu_about.xml"
+    }
+]
